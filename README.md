@@ -1,4 +1,5 @@
-![side logo](https://github.com/user-attachments/assets/19ad939f-47fd-4b03-86e1-1871a9b4b918)
+![ICEFROST txt reg](https://github.com/user-attachments/assets/5c6ff7a5-f287-47cc-81d2-49c8d8c582c5)
+
 
 **Unity Developer** | **R&D Specialist** | **Systems Architect**\
 I'm a seasoned Unity C# developer with 6 years of experience working at top game studios and independently on mobile games.\
