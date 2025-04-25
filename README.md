@@ -1,10 +1,6 @@
+![side logo](https://github.com/user-attachments/assets/19ad939f-47fd-4b03-86e1-1871a9b4b918)
+
 **Unity Developer** | **R&D Specialist** | **Systems Architect**\
-Currently developing innovative mobile games and scalable gameplay systems focusing on performance, elegance, and player-centric design.
-
----
-
-## About Me
-
 I'm a seasoned Unity C# developer with 6 years of experience working at top game studios and independently on mobile games.\
 I've led development teams, built modular and optimized architectures, and always aimed to merge technical excellence with creative gameplay.
 
@@ -16,11 +12,3 @@ I’m particularly passionate about:
 - AI Behaviors & Combat Logic
 - Custom Tools and Editor Extensions
 - Mobile Game Optimization & Publishing
-
----
-
-## Latest Projects
-
-- **IceFrost Framework** – Lightweight internal Unity MVVM framework
-- **Procedural Invader AI** – Dynamic Elden Ring-style AI for Unity
-- **DOTween Ease Visualizer** – A visual tool for easing functions (coming to Asset Store)
