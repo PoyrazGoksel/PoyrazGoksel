@@ -1,16 +1,36 @@
-## Hi there 👋
+# Poyraz Göksel
 
-<!--
-**PoyrazGoksel/PoyrazGoksel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Unity Developer** | **R&D Specialist** | **Systems Architect**\
+Currently developing innovative mobile games and scalable gameplay systems focusing on performance, elegance, and player-centric design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a seasoned Unity C# developer with 6 years of experience working at top game studios and independently on mobile games.\
+I've led development teams, built modular and optimized architectures, and always aimed to merge technical excellence with creative gameplay.
+
+I’m particularly passionate about:
+
+- Procedural Systems & Gameplay Loops
+- Game Architecture (Zenject, MV/VM, MVC)
+- Shader Programming (HLSL / Cg / Amplify Shader)
+- AI Behaviors & Combat Logic
+- Custom Tools and Editor Extensions
+- Mobile Game Optimization & Publishing
+
+---
+
+## Latest Projects
+
+- **IceFrost Framework** – Lightweight internal Unity MVVM framework
+- **Procedural Invader AI** – Dynamic Elden Ring-style AI for Unity
+- **DOTween Ease Visualizer** – A visual tool for easing functions (coming to Asset Store)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/poyraz-g%C3%B6ksel-61365152/)
+- 🌐 [Portfolio Website](https://www.poyrazgoksel.com/)
+- 🧑‍💻 [GitHub](https://github.com/PoyrazGoksel)
