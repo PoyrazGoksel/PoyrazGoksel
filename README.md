@@ -1,5 +1,3 @@
-# Poyraz Göksel
-
 **Unity Developer** | **R&D Specialist** | **Systems Architect**\
 Currently developing innovative mobile games and scalable gameplay systems focusing on performance, elegance, and player-centric design.
 
@@ -26,11 +24,3 @@ I’m particularly passionate about:
 - **IceFrost Framework** – Lightweight internal Unity MVVM framework
 - **Procedural Invader AI** – Dynamic Elden Ring-style AI for Unity
 - **DOTween Ease Visualizer** – A visual tool for easing functions (coming to Asset Store)
-
----
-
-## 📫 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/poyraz-g%C3%B6ksel-61365152/)
-- 🌐 [Portfolio Website](https://www.poyrazgoksel.com/)
-- 🧑‍💻 [GitHub](https://github.com/PoyrazGoksel)
