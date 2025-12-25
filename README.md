@@ -7,18 +7,18 @@ Focus areas include modular architecture, Zenject-based dependency injection, MV
 Addressables content delivery, Unity Gaming Services (Cloud Code, Cloud Save), and internal editor
 tooling.
 
-I’m particularly passionate about:
 Professional Experience:
-•Unity, C#
-•Zenject, MVVM / MVP
-•Addressables (content delivery, scene loading)
-•Unity Gaming Services: Cloud Code, Cloud Save
-•Unity Editor tool development (custom
+
+  * Unity, C#
+  * Zenject, MVVM / MVP
+  * Addressables (content delivery, scene loading)
+  * Unity Gaming Services: Cloud Code, Cloud Save
+  * Unity Editor tool development (custom
 inspectors)
-•Mobile builds: Android/Gradle, iOS/Xcode
-•WebGL builds
-•REST APIs: custom backend integration
+  * Mobile builds: Android/Gradle, iOS/Xcode
+  * WebGL builds
+  * REST APIs: custom backend integration
 (HTTP/JSON)
-•Unity shaders: ShaderLab/HLSL
-•Networking: Photon PUN
-•Narrative: Ink integration
+  * Unity shaders: ShaderLab/HLSL
+  * Networking: Photon PUN
+  * Narrative: Ink integration
