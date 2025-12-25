@@ -1,15 +1,24 @@
 ![ICEFROST txt reg](https://github.com/user-attachments/assets/5c6ff7a5-f287-47cc-81d2-49c8d8c582c5)
 
 
-**Unity Developer** | **R&D Specialist** | **Systems Architect**\
-I'm a seasoned Unity C# developer with 6 years of experience working at top game studios and independently on mobile games.\
-I've led development teams, built modular and optimized architectures, and always aimed to merge technical excellence with creative gameplay.
+**Unity Developer**
+Unity andC# developer with experience leading mobile game projects and shipping live-ops features.
+Focus areas include modular architecture, Zenject-based dependency injection, MVVM/MVP patterns,
+Addressables content delivery, Unity Gaming Services (Cloud Code, Cloud Save), and internal editor
+tooling.
 
 I’m particularly passionate about:
-
-- Procedural Systems & Gameplay Loops
-- Game Architecture (Zenject, MV/VM, MVC)
-- Shader Programming (HLSL / Cg / Amplify Shader)
-- AI Behaviors & Combat Logic
-- Custom Tools and Editor Extensions
-- Mobile Game Optimization & Publishing
+Professional Experience:
+•Unity, C#
+•Zenject, MVVM / MVP
+•Addressables (content delivery, scene loading)
+•Unity Gaming Services: Cloud Code, Cloud Save
+•Unity Editor tool development (custom
+inspectors)
+•Mobile builds: Android/Gradle, iOS/Xcode
+•WebGL builds
+•REST APIs: custom backend integration
+(HTTP/JSON)
+•Unity shaders: ShaderLab/HLSL
+•Networking: Photon PUN
+•Narrative: Ink integration
